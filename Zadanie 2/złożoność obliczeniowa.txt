@@ -1,0 +1,7 @@
+Odnosząc się do 'Big O Notation':
+
+Złożoność obliczeniowa algorytmu wynosi O(log n) - z uwagi na to, że algorytm wyszukiwania opiera się na
+dzieleniu na pół przeszukiwanej tablicy
+
+Złożoność pamięciowa to 0(1) - deklaruję dwie zmienne i liczba komórek pamięci zajętych przez dane jest niezależna
+od danych wejściowych
